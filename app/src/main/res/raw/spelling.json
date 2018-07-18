@@ -1,0 +1,64 @@
+{
+  "statements": [
+    {
+      "question": "SPELL",
+      "rightAnswers": [
+        "S",
+        "P",
+        "E",
+        "L",
+        "L"
+      ],
+      "wrongAnswers": [
+        "S",
+        "P",
+        "E",
+        "L",
+        "L"
+      ]
+    },
+    {
+      "question": "FLORIAN",
+      "rightAnswers": [
+        "F",
+        "L",
+        "O",
+        "R",
+        "I",
+        "A",
+        "N"
+      ],
+      "wrongAnswers": [
+        "F",
+        "L",
+        "O",
+        "R",
+        "I",
+        "A",
+        "N"
+      ]
+ },
+ {
+      "question": "COMPUTER",
+      "rightAnswers": [
+        "C",
+        "O",
+        "M",
+        "P",
+        "U",
+        "T",
+        "E",
+        "R"
+      ],
+      "wrongAnswers": [
+        "C",
+        "O",
+        "M",
+        "P",
+        "U",
+        "T",
+        "E",
+        "R"
+      ]
+ }]
+}

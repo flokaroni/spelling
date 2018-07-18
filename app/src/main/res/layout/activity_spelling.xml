@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SpellingActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:gravity="center"
+        android:padding="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <TextView
+            android:id="@+id/letter1TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="A"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/letter2TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="B"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="199dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/letter3TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="C"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="124dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/letter4TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="D"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="50dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/letter5TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="E"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/letter6TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="F"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/letter7TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="G"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/letter8TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="H"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="568dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:padding="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/answer1TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/answer2TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/answer3TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/answer4TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/answer5TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/answer6TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/answer7TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+        <TextView
+            android:id="@+id/answer8TV"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="_"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="278dp"
+            tools:layout_editor_absoluteY="337dp" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
